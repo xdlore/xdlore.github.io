@@ -8,4 +8,5 @@
     <title>Genshin Impact Crafting Database</title>
     <p>This is just a test</p>
 </body>
+
 </html>
